@@ -1,7 +1,7 @@
 # Bindu
 
 Steps to run in bluemix:
-You must run the code in the computer to get node_modules folder of nodejs before running in bluemix.
+
 
 Step1 :Download the all the folders from the github.
 
